@@ -6,10 +6,11 @@ View the [Herolab to Foundry VTT PF2 Converter Changelog](https://www.pf2player.
 
 
 
-### TODO:
- - import gear/items
+### TODO (in order of priority, sort of):
  - spell support
+ - import gear/items
+ - more PFS support
  - maybe figure out some modifiers that aren't in the HLO output, like perception, key ability, etc
  - change diety icon
- - more PFS support
+ 
  
